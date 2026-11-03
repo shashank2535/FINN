@@ -129,4 +129,4 @@ For a Node host, install production dependencies and run `npm start` with `HOST=
 
 ## Submission package
 
-`COVERING_EMAIL.md` is an editable draft, `DEMO_GUIDE.md` is a reviewer walkthrough, `AI_BUILD_HISTORY.md` is an honest development log, and `SUBMISSION_CHECKLIST.md` records the remaining account/sharing steps. No email has been sent. No GitHub URL or raw conversation export is fabricated.
+`DEMO_GUIDE.md` is a reviewer walkthrough and `AI_BUILD_HISTORY.md` is a supplementary development log. The project writeup and original AI conversation export are supplied separately in the final submission pack.
