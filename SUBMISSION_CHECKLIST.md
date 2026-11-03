@@ -7,5 +7,3 @@
 - Attach FINN_Project_Writeup.pdf. Review the conversation export before sharing it.
 - Test both links on a phone and send the email yourself. No email has been sent.
 - The original brief states 1 November 2026 as its deadline; confirm acceptance of a later submission.
-
-Pending: upload the source files to the new GitHub repository. The connected integration returned HTTP 403; the final pack includes browser and Git upload instructions.
